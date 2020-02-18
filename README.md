@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Bryan Alfonso Córdoba Góngora     :octocat:     
+ * :bust_in_silhouette:  Álvaro Répole Alonso     :octocat:
 
 ----- 
 
