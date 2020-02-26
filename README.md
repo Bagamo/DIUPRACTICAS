@@ -42,12 +42,11 @@ La segunda persona es la representación de una mujer inglesa que conoce algo de
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-He escogido esta experiencia porque aunque un inusual puede pasar, queria ver como mi persona afrontaba la situación.
-Dado que ella se encuentra en un pais extranjero, tiene la dificultad del idioma sumado a la poca comunicación que tiene con su anfitrión pensar en la dificultad de encontrar una calle que no esta en google maps y como reaccionaría despues de tal desilusión.
-![Método UX](img/RBJourney.png) 1.c User Journey Map
+En el caso de Ramón Jimenez vemos cómo sería un caso relativamenete normal de alguien que busca en eatwith un anfitrión con quién comer. Encuentra un tipo de comida que le gusta pero no va mucho gente a comer, por lo que no satisfase su necesidad del todo
+![Método UX](img/rmjourney.png)
+La experiencia de Rachel Brown aunque inusual, puede pasar. Ella se encuentra en un pais extranjero, tiene la dificultad con el idioma y poca comunicación con su anfitrión. Además tiene dificultades encontrando la calle, por lo que su experiencia queda gravemente perjudicada.
+![Método UX](img/RBJourney.png)
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
