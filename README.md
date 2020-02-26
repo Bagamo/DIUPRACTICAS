@@ -41,6 +41,8 @@ La segunda persona es la representación de una mujer inglesa que conoce algo de
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
+He escogido esta experiencia porque aunque un inusual puede pasar, queria ver como mi persona afrontaba la situación.
+Dado que ella se encuentra en un pais extranjero, tiene la dificultad del idioma sumado a la poca comunicación que tiene con su anfitrión pensar en la dificultad de encontrar una calle que no esta en google maps y como reaccionaría despues de tal desilusión.
 ![Método UX](img/RBJourney.png) 1.c User Journey Map
 
 
