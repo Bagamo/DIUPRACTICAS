@@ -34,7 +34,7 @@ Tenemos que mirar aplicaciones que permitan compartir ocio con otras personas. T
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 La primera persona es la representación del usuario medio, con intentción de comer sano y conocer gente cerca de casa, disfrutando de la gastronomía local. Está acostumbrado a las tecnologías y sabe lo que está buscando.
-(img/persona1.png)
+![Método UX](img/persona1.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
