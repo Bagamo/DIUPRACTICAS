@@ -41,7 +41,7 @@ La segunda persona es la representación de una mujer inglesa que conoce algo de
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+![Método UX](img/RBJourney.png) 1.c User Journey Map
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
