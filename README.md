@@ -34,8 +34,8 @@ Tenemos que mirar aplicaciones que permitan compartir ocio con otras personas. T
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 La primera persona es la representación del usuario medio, con intentción de comer sano y conocer gente cerca de casa, disfrutando de la gastronomía local. Está acostumbrado a las tecnologías y sabe lo que está buscando.
-La segunda persona es la representación de una mujer inglesa que conoce algo de uso en las tecnologias pero aun asi tampoco se desenvuelve con facilidad.Esta persona le gusta realizar sus pasión la cocina y pasar tiempo con su familia, es la tipica ama de casa a la que le gusta viajar y conocer mundo.
 ![Método UX](img/persona1.png)
+La segunda persona es la representación de una mujer inglesa que conoce algo de uso en las tecnologias pero aun asi tampoco se desenvuelve con facilidad y le gusta viajar.Esta persona le gusta realizar sus pasión la cocina y pasar tiempo con su familia, he escogido esta persona porque queria una extrajera de edad avanzada que no se moviese tan bien con las tecnologías.
 ![Método UX](img/RBPersona.png)
 
 
