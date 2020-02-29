@@ -50,12 +50,7 @@ La experiencia de Rachel Brown aunque inusual, puede pasar. Ella se encuentra en
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+Es una página consistente que ofrece al usuario una experiencia satisfactoria. Para personas con experiencia navegando por la red podrán moverse y tocar las diferentes opciones que la misma página da al usuario para satisfacer sus necesidades, las personas que no esten acustrabadas a moverse por estas páginas se le proporcionaran unos valores por defecto a la hora de buscar para que el usuario solo tenga que introducir unos datos básicos para realizar sus consultas.
 
 ## Paso 2. UX Design  
 
