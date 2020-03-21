@@ -29,7 +29,11 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 ----- 
-Tenemos que mirar aplicaciones que permitan compartir ocio con otras personas. Tras una busqueda por varias webs, en las que hemos visto sitios para contratar músicos para una velada como Sofar o Artery, nos hemos acabado decantado por eatwith, una aplicación que te permite hacer tours gastronómicos, dar clases de cocina local con otras personas o reservar mesa en casas particulares para hacer comidas grupales y poder conocer gente. Hemos elegido esta aplicación porque al estar en España y mas concretamente, en Granada, ciudad de una gastronomía única, nos parece interesente la opción de poder compartir experiencias y hacer amigos a través de una comida. Además la opción de poder realizar talleres de cocina impartidos por personas amateurs, en un ambiente tranquilo y amigable, nos parece una fantastica manera de socializar y de disfrutar de nuestra gastronomía. 
+Tenemos que mirar aplicaciones que permitan compartir ocio con otras personas. Tras una busqueda por varias webs, en las que hemos visto sitios para contratar músicos para una velada como Sofar o Artery, nos hemos acabado decantado por EatWith, una aplicación que te permite hacer tours gastronómicos, dar clases de cocina local con otras personas o reservar mesa en casas particulares para hacer comidas grupales y poder conocer gente.
+A la hora de comparar Eatwith con Sofar por ejemplo vemos que en EatWith podemos hacer búsquedas más filtradas, que estén más adecuadas a lo que estamos buscando. Eatwith ofrece más información a primera vista que Sofar, proporcionando al usuario una mejor navegabilidad.
+Tambien hemos comparado Eatwith con Artery, en la que encontramos más diferencias. En Artery cuesta relativamente encontrar las cosas, incluso qué proposito tiene la página web. En el aspecto de sencillez y de presentación, Eatwith es bastante superior.
+Eatwith ofrece en definitiva una rapida y sencilla navegación, siendo accesible para todo tipo de usuarios. Su interfaz es intuitiva y sus opciones estan bien definidas no dando lugar a errores de interpretación. Tiene una buena estructura (bastante mejor que la de The Artery por ejemplo), con lo que encontrar sus funcionalidades en sencillo.
+Además, han tenido excelentes criticas por la prensa especializada, haciendo gala de ellos en el fondo del cuerpo de la página.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
