@@ -91,7 +91,10 @@ Término | Significado
   Mis eventos favoritos | Consultar eventos marcados como favoritos
   Mi cuenta | Acceder a las opciones de tu cuenta
   Recomiendo a un amigo | Poder enviarle a un amigo un enlace de la pagina
-  ¿Cómo funciona? | Soporte al usuario
+  ¿Cómo funciona? | Informacion basica sobre el uso de la pagina
+  Foros | Acceso a los foros
+  Ayudas | acceso al soporte tecnico
+
 
 
 
