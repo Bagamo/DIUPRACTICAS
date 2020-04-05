@@ -81,7 +81,8 @@ Eatwith ofrece una buena experiencia de usuario, con una interfaz clara y una in
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Login | acceder a plataforma
+  bRYAN | aLVARO
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
