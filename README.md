@@ -62,7 +62,7 @@ Es una página consistente que ofrece al usuario una experiencia satisfactoria. 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-(img/fcg.png)
+![Método UX](img/fcg.png)
   
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
