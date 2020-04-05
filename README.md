@@ -102,7 +102,14 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Foro:
+![Método UX](img/boceto-foro1)
+![Método UX](img/boceto-foro2)
+-----
+Interprete:
+![Método UX](img/boceto-interprete)
+
+
 
 
 ## Paso 3. Make (Prototyping) 
