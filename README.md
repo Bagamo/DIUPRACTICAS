@@ -72,8 +72,8 @@ Es una página consistente que ofrece al usuario una experiencia satisfactoria. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
+![Método UX](img/funciones.png)
+ 
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
