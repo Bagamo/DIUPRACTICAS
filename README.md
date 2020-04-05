@@ -103,11 +103,11 @@ Término | Significado
 -----
 
 Foro:
-![Método UX](img/boceto-foro1.pjeg)
-![Método UX](img/boceto-foro2.pjeg)
+![Método UX](img/boceto-foro1.jpeg)
+![Método UX](img/boceto-foro2.jpeg)
 -----
 Interprete:
-![Método UX](img/boceto-interprete.pjeg)
+![Método UX](img/boceto-interprete.jpeg)
 
 
 
