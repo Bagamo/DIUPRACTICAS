@@ -104,10 +104,10 @@ Término | Significado
 
 Foro:
 ![Método UX](img/boceto-foro1.jpg)
-![Método UX](img/boceto-foro2.jpeg)
+![Método UX](img/boceto-foro2.jpg)
 -----
 Interprete:
-![Método UX](img/boceto-interprete.jpeg)
+![Método UX](img/boceto-interprete.jpg)
 
 
 
