@@ -81,8 +81,18 @@ Eatwith ofrece una buena experiencia de usuario, con una interfaz clara y una in
 
 Término | Significado     
 | ------------- | -------
-  Login | acceder a plataforma
-  bRYAN | aLVARO
+  Tarjeta Regalo | comprarle a otra persona un vale para canjear
+  Eventos Privados | 
+  Reservar Evento |
+  Se anfitrión | 
+  Perfil | 
+  Mensajes | 
+  Reservas efectuadas| 
+  Mis eventos favoritos | 
+  Mi cuenta | 
+  Recomiendo a un amigo | 
+  ¿Cómo funciona? | 
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
