@@ -81,17 +81,17 @@ Eatwith ofrece una buena experiencia de usuario, con una interfaz clara y una in
 
 Término | Significado     
 | ------------- | -------
-  Tarjeta Regalo | comprarle a otra persona un vale para canjear
-  Eventos Privados | 
-  Reservar Evento |
-  Se anfitrión | 
-  Perfil | 
-  Mensajes | 
-  Reservas efectuadas| 
-  Mis eventos favoritos | 
-  Mi cuenta | 
-  Recomiendo a un amigo | 
-  ¿Cómo funciona? | 
+  Tarjeta Regalo | Comprarle a otra persona un vale para canjear
+  Eventos Privados | Buscar un evento con un anfitrion especifico
+  Reservar Evento | Reservar plaza en evento
+  Se anfitrión | Convertirse en el anfitrión de un evento
+  Perfil | Acceder a tu perfil
+  Mensajes |  Acceder a tus mensajes privados
+  Reservas efectuadas|  Consultar reservas anteriores o pendientes
+  Mis eventos favoritos | Consultar eventos marcados como favoritos
+  Mi cuenta | Acceder a las opciones de tu cuenta
+  Recomiendo a un amigo | Poder enviarle a un amigo un enlace de la pagina
+  ¿Cómo funciona? | Soporte al usuario
 
 
 
