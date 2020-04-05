@@ -103,7 +103,7 @@ Término | Significado
 -----
 
 Foro:
-![Método UX](img/boceto-foro1.jpeg)
+![Método UX](img/boceto-foro1.jpg)
 ![Método UX](img/boceto-foro2.jpeg)
 -----
 Interprete:
