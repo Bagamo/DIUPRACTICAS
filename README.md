@@ -109,7 +109,10 @@ Foro:
 Interprete:
 -----
 ![Método UX](img/boceto-interprete.jpg)
-
+-----
+Guardar filtros:
+-----
+![Método UX](img/boceto-busqueda.jpg)
 
 
 
