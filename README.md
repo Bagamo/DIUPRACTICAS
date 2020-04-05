@@ -107,6 +107,7 @@ Foro:
 ![Método UX](img/boceto-foro2.jpg)
 -----
 Interprete:
+-----
 ![Método UX](img/boceto-interprete.jpg)
 
 
