@@ -77,7 +77,8 @@ Eatwith ofrece una buena experiencia de usuario, con una interfaz clara y una in
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+
+![Método UX](img/map.jpeg) 
 
 Término | Significado     
 | ------------- | -------
