@@ -21,8 +21,13 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
+-----
+## ¿Alguna vez te ha invitado a comer tu amigo y has pensado que debería compartir su comida con el resto de gente?
+
+# Introducción
 
 
+-----
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
