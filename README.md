@@ -26,7 +26,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 # Introducción
 
-Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwith. Una aplicación donde los usuarios podrían crear eventos para compartir su comida o crear tours para visitar restaurantes en grupos.
+Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwith. Una aplicación que permitise a los usuarios conocer gente en eventos gastronómicos, como hacer quedadas en casa de un anfitrión, ir a cursos de cocina de comida nueva o realizar tours por los diferentes bares y restaurantes de una ciudad.
 
 ## Duración del proyecto: 3 meses
 
@@ -60,9 +60,9 @@ La mayoria de clientes le interesan las experiencias gastronomicas pero al no en
 
 Decidimos constatar nuestra suposiciones visitando diferentes restaurantes y anfitriones para comprobar como actuaban los usuarios a la hora de encontrarse directamente con la experiencia. Pudimos observar que:
 
-Un gran porcentaje de los usuarios son extrajeros.
-El precio de las experiencias no suele ser muy elevado.
-Los usuarios suelen buscar experiencias exóticas a no ser que sean extranjeros que se interesan mas por la gastronomía local.
+-Un gran porcentaje de los usuarios son extrajeros.
+-El precio de las experiencias no suele ser muy elevado.
+-Los usuarios suelen buscar experiencias exóticas a no ser que sean extranjeros que se interesan mas por la gastronomía local.
 
 
 ![Método UX](img/Competitive.png) Competitive Analysis
