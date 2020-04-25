@@ -29,7 +29,7 @@ Hemos estado estudiando varios patrones de diseño y el más atractivo que hemos
 En pantallas más pequeñas la cuadricula fluida genera el reprocesamiento del contenido principal, mientras que las columnas se apilan verticalmente. Esto hace que solo se necesite un punto de interrupción entre las pantallas grandes y las pequeñas, haciendo su implementación y su diseño más sencillo.
 Hemos escogido este patrón porque es un patrón sencillo, que funciona tanto en dispositivos móviles como en pantallas de mayor resolución, ofreciéndonos versatilidad.
 
-Así sería como quedaría en diferentes resouciones:
+Así sería como quedaría en diferentes resoluciones:
 ![Método UX](../img/mostlyfluid.png)
 
 En cuanto a los colores, Android nos ofrece una paleta de colores para usar, aunque nos recomiendan usar el azul. Es importante que los colores hagan un buen contraste y que no sea incomodo de ver, ya que puede afectar negativamente en la experiencia de usuario.
