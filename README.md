@@ -159,17 +159,17 @@ Término | Significado
 -----
 Una vez terminado el mapa decidimos crear unos bocetos de algunas de las funcionalidades, tuvimos en cuenta aquellas recomendaciones que nos hicieron las personas que entrevistamos. Siempre teniendo en cuenta que el buscador debe ser visible en todo momento.
 
-Entre ellas muchos comentaron querer un foro para poder compartir sus experiencias y sobretodo comentar cuales eran sus anfitriones favoritos.
+A) Entre ellas muchos comentaron querer un foro para poder compartir sus experiencias y sobretodo comentar cuales eran sus anfitriones favoritos.
 
 ![Método UX](img/boceto-foro1.jpg)
 ![Método UX](img/boceto-foro2.jpg)
 -----
-Al observar que muchos usuarios son extranjeros decidimos que incluir una opción interprete. Para permitir a aquellos usuarios que no entienden el idioma local disfrutar de la experiencia, decidimos incluirlo al lado de los otros filtros.
+B) Al observar que muchos usuarios son extranjeros decidimos que incluir una opción interprete. Para permitir a aquellos usuarios que no entienden el idioma local disfrutar de la experiencia, decidimos incluirlo al lado de los otros filtros.
 
 ![Método UX](img/boceto-interprete.jpg)
 -----
 
-Lo que si escuchamos mucho en las entrevistas era que se quejaban de que a lo mejor recargaban la página o lo cerraban porque tenían que irse, al volver tenian que introducir todos los datos de nuevos. Asi que decidimos que despues de una busqueda se le preguntase al usuario si deseaba guardar esos filtros para poder mandarle recomendaciones y que solo hiciese falta introducir la zona.
+C) Lo que si escuchamos mucho en las entrevistas era que se quejaban de que a lo mejor recargaban la página o lo cerraban porque tenían que irse, al volver tenian que introducir todos los datos de nuevos. Asi que decidimos que despues de una busqueda se le preguntase al usuario si deseaba guardar esos filtros para poder mandarle recomendaciones y que solo hiciese falta introducir la zona.
 
 ![Método UX](img/boceto-busqueda.jpg)
 
