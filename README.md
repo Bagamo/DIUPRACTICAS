@@ -34,6 +34,8 @@ Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwi
 
 ## Objetivos:
 
+      1. 
+
 -----
 # Proceso de Diseño 
 
