@@ -1,4 +1,6 @@
--Pregunta  seminal/idea  de  investigación: Una buena forma de empezar una exposición y atraer al publixo es hacer una pregunta que nos hemos hecho todo en algun momento, en este caso quedarnos fascinados mirando arte por la calle y preguntarnos quién es el autor de la obra. Con esto captamos la atencion de nuestro publico con el tema del que queremos hablar.
+1.- Analiza:
+
+-Pregunta  seminal/idea  de  investigación: Una buena forma de empezar una exposición y atraer al público es hacer una pregunta que nos hemos hecho todo en algun momento, en este caso quedarnos fascinados mirando arte por la calle y preguntarnos quién es el autor de la obra. Con esto captamos la atencion de nuestro publico con el tema del que queremos hablar.
 
 Introducción: La misma pregunta les lleva a la creación del proyecto con un objetivo claro: darle mas imporancia a aquellas obras públicas y anónimas.
 
@@ -6,7 +8,7 @@ Oportunidad: Es una idea muy buena ya que no hemos visto personalmente ninguna a
 
 Investigación primaria: Primero tuvieron una reunión para ver qué necesidades e inquietudes tienen los posibles usuarios de la aplicación, por lo que fueron a varios lugares de interes para estudiar como interactuan las personas con las obras de arte callejeras. Esta práctica está bien pensada porque un desarrollador puede tener una idea preconcibida sobre el uso que puede tener su aplicación, pero las personas pueden tener otro tipo de necesidades y si no lo ves de primera mano, es posible que no consigas satisfacerlas todas.
 
-Análisis de la competencia: Hicieron una investigación para ver que apps parecidas había en el mercado, comparando una con otras para ver que funcionalidades tenían unas u otras . Esto es importante para ver en que fallan tus competidores para así poder realizar un producto superior al de la competencia. Tuvieron en cuenta que es lo que ninguna de estas apps ofrecian, como la de recomendaciones personalizadas al usuario, para así poder incluirlo en su aplicación.
+Análisis de la competencia: Hicieron una investigación para ver que apps parecidas había en el mercado, comparando una con otras para ver que funcionalidades tenían unas u otras. Esto es importante para ver en que fallan tus competidores para así poder realizar un producto superior al de la competencia. Tuvieron en cuenta que es lo que ninguna de estas apps ofrecian, como la de recomendaciones personalizadas al usuario, para así poder incluirlo en su aplicación.
 
 Diseño Centrado en el Usuario para recabar información: Realizaron un empathy map para asi tener un primer acercamiento sobre qué pueden pensar tus usuarios y así poder abordar las entrevistas de una manera mas correcta.
 Una vez realizadas estas entrevistas, realizan un affinity mapping para poner en contraste las ideas del principio con lo que han encontrado a través de la entrevista, viendo en que habian fallado o que les faltaba por añadir.
@@ -20,7 +22,7 @@ Los creadores hicieron una investigación en la que buscaron cual era el problem
 
 Conclusión: En lineas generales nos ha parecido un UX Case Study muy bueno, en la que han llevado a cabo un estudio completo del problema, utilizando varias herramientas que le han permitido acercarse de una manera más fidedigna a las necesidades del usuario. Lo que más importante nos parecen son el analisis de competencias, porque asi podemos comparar a la competencia y ver como mejorar el producto para así poder destacar, y el uso de las personas para poder contar con multiples clientes y hacernos una idea de cómo va a ser la experiencia de usuario y así poder incidir en los puntos más lesivos.  Creemos que los metodos UX que realizan a la hora de enforcar el proyecto son bastante acertados y ayudan al desarrollo del mismo.
 
-2.-
+2.-Investiga patrones de diseñoy guidelines:
 
 Hemos estado estudiando varios patrones de diseño y el más atractivo que hemos encontrado es el denominado Mostly Fluid. Este patrón consiste en una cuadricula fluida, es decir, en las pantallas más grandes se mantiene el mismo tamaño con unos margenes laterales mas anchos.
 En pantallas más pequeñas la cuadricula fluida genera el reprocesamiento del contenido principal, mientras que las columnas se apilan verticalmente. Esto hace que solo se necesite un punto de interrupcion entre las pantallas grandes y las pequeñas, haciendo su implementación y su diseño más sencillo.
