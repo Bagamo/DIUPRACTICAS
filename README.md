@@ -41,10 +41,11 @@ Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwi
 # La oportunidad
 
 ## Pudimos trabajar con:
-      1. Permitimos a los usuarios obtener infomación de los eventos y los "host" encargados de realizarla.
+      1. Permitir a los usuarios obtener infomación de los eventos y los "host" encargados de realizarla.
       2. Contamos con un sistema de votaciones para comparar los host y asi saber cuales son los mejores.
       3. Diferentes metodos de pago y confirmación de la reserva.
       4. Filtros que te indican cuales son los mejores eventos de una zona basado en tus gustos.
+      5. Tarjetas de regalo que permitiran invitar a otros usuarios.
       
 # Investagación del usuario
 
