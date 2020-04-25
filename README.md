@@ -133,11 +133,8 @@ La experiencia de Rachel Brown aunque inusual, puede pasar. Ella se encuentra en
 Decidimos primero crear una matriz de tareas/usuarios diferenciando 3 tipos de usuarios: No registrados, registrados y anfitriones. Nos interesaba saber que acciones tendrían mas importancia para a la hora de diseñar la página darle mas valor a aquellas acciones que realicen todos los tipos de usuarios y tenga mas relevancia.
 
 ![Método UX](img/funciones.png)
- 
-
-
-![Método UX](img/labelling.png) 2.c Labelling 
-----
+-----
+Una vez creada la matriz decidimos crear el mapa (sitemap) junto a su etiquetado (labelling) para estructurar la web. En nuestro caso contamos con una página principal que nos redirecciona a las distintas funciones de la página teniendo en cuenta la busqueda de experiencias como principal acción de la aplicación.
 
 
 
