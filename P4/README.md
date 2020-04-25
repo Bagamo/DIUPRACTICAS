@@ -34,7 +34,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](img/usability-report.png) 4.c Usability Report
+![Método UX](../img/usability-report.png) 4.c Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B 
