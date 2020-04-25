@@ -10,7 +10,7 @@
 >>>> Práctica A: 
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+![Método UX](../img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Usuarios para evaluar prácticas 
