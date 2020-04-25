@@ -29,7 +29,7 @@ Hemos estado estudiando varios patrones de diseño y el más atractivo que hemos
 En pantallas más pequeñas la cuadricula fluida genera el reprocesamiento del contenido principal, mientras que las columnas se apilan verticalmente. Esto hace que solo se necesite un punto de interrupción entre las pantallas grandes y las pequeñas, haciendo su implementación y su diseño más sencillo.
 Hemos escogido este patrón porque es un patrón sencillo, que funciona tanto en dispositivos móviles como en pantallas de mayor resolución, ofreciéndonos versatilidad.
 
-*FOTO DE MOSTLY FLUID*
+![Método UX](img/mostlyfluid.png)
 
 En cuanto a los colores, Android nos ofrece una paleta de colores para usar, aunque nos recomiendan usar el azul. Es importante que los colores hagan un buen contraste y que no sea incomodo de ver, ya que puede afectar negativamente en la experiencia de usuario.
 
@@ -39,6 +39,7 @@ En cuanto a la pagina web sería una pagina sencilla, con un header que contendr
 El header además tendría un menú desde el que puedes ir a cualquier funcionalidad de la web de manera rápida y sencilla. Para poder hacer búsquedas, tendríamos una barra de navegación en la pagina principal para poder realizar búsquedas personalizadas. Una vez has iniciado la búsqueda, el buscador seguiría estando disponible para poder cambiar filtros o añadir nuevos criterios de búsqueda.  
 
 A la hora de hacer las reservas o la creación de eventos en nuestra aplicación usaríamos los conocidos como Progress Trackers , que sirve para poder diferenciar diferentes apartados de un mismo proceso. Esto conseguiría que el usuario sepa en cada paso qué debe hacer y evitaría errores de entendimiento.
-* FOTO DE PROGRESS TRACKERS*
+
+![Método UX](img/tracker.png)
 
 En el footer tendríamos un apartado de ayuda para los usuarios que la necesiten, que este accesible y sea intuitiva. Tendríamos además botones a las redes sociales de la web y un copyight de la empresa.
