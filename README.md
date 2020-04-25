@@ -118,8 +118,10 @@ Que el idioma utilizado no sea su primer idioma.
 Socializar con personas que conoces por primera vez
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) User Journey Map
 ----
+Deseamos crear un mapa de viaje para ambas personas y estudiarlos en diferentes escenarios:
+
 En el caso de Ramón Jimenez vemos cómo sería un caso relativamenete normal de alguien que busca en eatwith un anfitrión con quién comer. Encuentra un tipo de comida que le gusta pero no va mucho gente a comer, por lo que no satisfase su necesidad del todo
 ![Método UX](img/rmjourney.png)
 La experiencia de Rachel Brown aunque inusual, puede pasar. Ella se encuentra en un pais extranjero, tiene la dificultad con el idioma y poca comunicación con su anfitrión. Además tiene dificultades encontrando la calle, por lo que su experiencia queda gravemente perjudicada.
