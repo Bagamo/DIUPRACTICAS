@@ -92,7 +92,7 @@ Publicamos las encuestas para seleccionar a las personas para llevar a cabo las 
 
 ![Método UX](img/Persona.png) Personas de usuario
 ----- 
-Sentimos que necesitábamos crear 2 personas de usuario para identificar las metas y los puntos débiles de nuestro usuario objetivo.
+Sentimos que necesitábamos crear 2 personas para identificar las metas y los puntos débiles de nuestro usuario objetivo.
 
 La primera persona es la representación del usuario medio, con intención de comer sano y conocer gente cerca de casa, disfrutando de la gastronomía local. Está acostumbrado a las tecnologías y sabe lo que está buscando.
 ![Método UX](img/persona1.png)
@@ -120,17 +120,13 @@ Socializar con personas que conoces por primera vez
 
 ![Método UX](img/JourneyMap.png) User Journey Map
 ----
-Deseamos crear un mapa de viaje para ambas personas y estudiarlos en diferentes escenarios:
+Deseamos crear un mapa de viaje para ambas personas. Estudiarlos en diferentes escenarios y comprobar como se desenvolverían usando la aplicación :
 
 En el caso de Ramón Jimenez vemos cómo sería un caso relativamenete normal de alguien que busca en eatwith un anfitrión con quién comer. Encuentra un tipo de comida que le gusta pero no va mucho gente a comer, por lo que no satisfase su necesidad del todo
 ![Método UX](img/rmjourney.png)
 La experiencia de Rachel Brown aunque inusual, puede pasar. Ella se encuentra en un pais extranjero, tiene la dificultad con el idioma y poca comunicación con su anfitrión. Además tiene dificultades encontrando la calle, por lo que su experiencia queda gravemente perjudicada.
 ![Método UX](img/RBJourney.png)
 
-
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
-Es una página consistente que ofrece al usuario una experiencia satisfactoria. Para personas con experiencia navegando por la red podrán moverse y tocar las diferentes opciones que la misma página da al usuario para satisfacer sus necesidades, las personas que no esten acustrabadas a moverse por estas páginas se le proporcionaran unos valores por defecto a la hora de buscar para que el usuario solo tenga que introducir unos datos básicos para realizar sus consultas.
 
 ## Paso 2. UX Design  
 
