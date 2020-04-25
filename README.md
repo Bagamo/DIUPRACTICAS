@@ -26,6 +26,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 # Introducción
 
+Esta pregunta nos llevo a buscar aquellas aplicaciones que nos permitirían compartir comida con otras personas de manera segura y ya de paso ganar algo de dinero. 
+
 
 -----
 # Proceso de Diseño 
