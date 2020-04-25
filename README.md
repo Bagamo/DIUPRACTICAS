@@ -65,14 +65,9 @@ El precio de las experiencias no suele ser muy elevado.
 Los usuarios suelen buscar experiencias exóticas a no ser que sean extranjeros que se interesan mas por la gastronomía local.
 
 
------
-# Proceso de Diseño 
-
-## Paso 1. UX Desk Research & Analisis 
-
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) Competitive Analysis
 ----- 
-Tenemos que mirar aplicaciones que permitan compartir ocio con otras personas. Tras una busqueda por varias webs, en las que hemos visto sitios para contratar músicos para una velada como Sofar o Artery, nos hemos acabado decantado por EatWith, una aplicación que te permite hacer tours gastronómicos, dar clases de cocina local con otras personas o reservar mesa en casas particulares para hacer comidas grupales y poder conocer gente.
+Despues de comprobar como actuaban los usuarion teniamos que mirar aplicaciones que permitan compartir ocio con otras personas las cuales serían nuestras principales competidoras. Tras una busqueda por varias webs, en las que hemos visto sitios para contratar músicos para una velada como Sofar o Artery, nos hemos acabado decantado por EatWith, una aplicación que te permite hacer tours gastronómicos, dar clases de cocina local con otras personas o reservar mesa en casas particulares para hacer comidas grupales y poder conocer gente.
 A la hora de comparar Eatwith con Sofar por ejemplo vemos que en EatWith podemos hacer búsquedas más filtradas, que estén más adecuadas a lo que estamos buscando. Eatwith ofrece más información a primera vista que Sofar, proporcionando al usuario una mejor navegabilidad.
 Tambien hemos comparado Eatwith con Artery, en la que encontramos más diferencias. En Artery cuesta relativamente encontrar las cosas, incluso qué proposito tiene la página web. En el aspecto de sencillez y de presentación, Eatwith es bastante superior.
 Eatwith ofrece en definitiva una rapida y sencilla navegación, siendo accesible para todo tipo de usuarios. Su interfaz es intuitiva y sus opciones estan bien definidas no dando lugar a errores de interpretación. Tiene una buena estructura (bastante mejor que la de The Artery por ejemplo), con lo que encontrar sus funcionalidades en sencillo.
