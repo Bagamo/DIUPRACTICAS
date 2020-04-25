@@ -47,9 +47,9 @@ Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwi
       4. Filtros que te indican cuales son los mejores eventos de una zona basado en tus gustos.
       5. Tarjetas de regalo que permitiran invitar a otros usuarios.
       
-# Investagación del usuario
+# Investigación del usuario
 
-Antes de realizar las entrevistas tuvimos una reunión en la que nos centramos en suponer cuales serian nuestros usuarios y que necesitarían de nuestra aplicación. Descubrimos que:
+Antes de realizar las entrevistas tuvimos una reunión en la que nos centramos en suponer cuales serian nuestros usuarios y que necesitarían de nuestra aplicación. De la reunion sacamos las siguientes ideas:
 
 Nuestros usuarios desean compartir sus experiencias gastronómicas con otros usuarios.
 
