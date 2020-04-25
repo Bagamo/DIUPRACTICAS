@@ -156,13 +156,10 @@ Término | Significado
   Foros | Acceso a los foros
   Ayudas | acceso al soporte tecnico
 
-
-
-
-![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+Una vez terminado el mapa decidimos crear unos bocetos de algunas de las funcionalidades, tuvimos en cuenta aquellas recomendaciones que nos hicieron las personas que entrevistamos.
 
-Foro:
+Entre ellas muchos comentaron querer un foro para poder compartir sus experiencias y sobretodo comentar cuales eran sus anfitriones favoritos.
 ![Método UX](img/boceto-foro1.jpg)
 ![Método UX](img/boceto-foro2.jpg)
 -----
