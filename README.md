@@ -170,6 +170,7 @@ Al observar que muchos usuarios son extranjeros decidimos que incluir una opció
 -----
 
 Lo que si escuchamos mucho en las entrevistas era que se quejaban de que a lo mejor recargaban la página o lo cerraban porque tenían que irse, al volver tenian que introducir todos los datos de nuevos. Asi que decidimos que despues de una busqueda se le preguntase al usuario si deseaba guardar esos filtros para poder mandarle recomendaciones y que solo hiciese falta introducir la zona.
+
 ![Método UX](img/boceto-busqueda.jpg)
 
 
