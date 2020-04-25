@@ -128,15 +128,7 @@ La experiencia de Rachel Brown aunque inusual, puede pasar. Ella se encuentra en
 ![Método UX](img/RBJourney.png)
 
 
-## Paso 2. UX Design  
-
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
-
-![Método UX](img/fcg.png)
-  
-Eatwith ofrece una buena experiencia de usuario, con una interfaz clara y una información en lo general bien estructurada. El usuario dependiendo de lo que quiera hacer tiene las funcionalidades a mano, con la información clara y precisa sobre en qué consiste cada apartado. Sin embargo, en el usability review descubrimos ciertos errores que se podrían mejorar añadiendo o modificando ciertos detalles de la página. El ejemplo más claro lo encontramos en el panel de ayuda, que a pesar de estar constantemente en la pantalla, cuesta discernir qué es. Aparece con un símbolo que parece parte del fondo y no una pestaña emergente. Esto se podría mejorar cambiando el simbolo de ayuda e lugar o poniendo otro más clarificador. Otra función que podríamos añadir sería un foro o un sistema de mensajes entre usuarios para formar grupos antes de las quedadas, para ir conociendo gente antes y después de los eventos o para pedir recomendaciones. Por último, hemos pensado que poder guardar busquedas con filtros sería útil para así evitar hacer la busqueda entera y ahorrar tiempo.
+# Diseño
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
