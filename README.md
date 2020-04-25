@@ -58,7 +58,7 @@ La mayoria de clientes le interesan las experiencias gastronomicas pero al no en
 
 # Investigación contextual 
 
-Decidimos constatar nuestra suposiciones visitando diferentes restaurantes y anfitriones
+Decidimos constatar nuestra suposiciones visitando diferentes restaurantes y anfitriones para comprobar como actuaban los usuarios a la hora de encontrarse directamente con la experiencia. Pudimos observar que:
 
 
 -----
