@@ -52,8 +52,11 @@ Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwi
 Antes de realizar las entrevistas tuvimos una reunión en la que nos centramos en suponer cuales serian nuestros usuarios y que necesitarían de nuestra aplicación. De la reunion sacamos las siguientes ideas:
 
 Nuestros usuarios desean compartir sus experiencias gastronómicas con otros usuarios.
+
 Los usuarios desean realizar difirentes talleres gastronómicos.
+
 Los anfitriones desean sacar algo de dinero de las experiencias.
+
 La mayoria de clientes le interesan las experiencias gastronomicas pero al no encontrar información sobre ellas desiste.
 
 # Investigación contextual 
@@ -80,7 +83,9 @@ Además, han tenido excelentes criticas por la prensa especializada, haciendo ga
 Publicamos las encuestas para seleccionar a las personas para llevar a cabo las entrevistas, en ellas nos dimos cuenta que se repetian ciertas frases:
 
 "Me encanta ir a un sitio nuevo y que me sorprendan con la comida a la vez que disfruto de una gran velada."
+
 "Me cuesta ir a cenar con mis amigos ya que ellos no comparten mis gustos."
+
 "Los fines de semana me gusta dejarme llevar y que me sorprendan con una buena cena."
 
 
