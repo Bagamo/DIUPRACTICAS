@@ -99,6 +99,23 @@ La primera persona es la representación del usuario medio, con intención de co
 La segunda persona es la representación de una mujer inglesa que conoce algo de uso en las tecnologias pero aun asi tampoco se desenvuelve con facilidad y le gusta viajar.Esta persona le gusta realizar sus pasión la cocina y pasar tiempo con su familia, he escogido esta persona porque queria una extrajera de edad avanzada que no se moviese tan bien con las tecnologías.
 ![Método UX](img/RBPersona.png)
 
+## Objetivos del usuario
+Identificamos las principales metas de nuestras personas:
+
+Conocer gente con los mismo gustos y aficiones.
+
+Aprender sobre la gastronomía locas y vivir experiencias únicas.
+
+Compartir sus experiencias en las redes sociales.
+
+## Los puntos debiles
+Por otra parte podemos identificar sus puntos debiles a la hora de usar la aplicación:
+
+El uso de las nuevas tecnologías.
+
+Que el idioma utilizado no sea su primer idioma.
+
+Socializar con personas que conoces por primera vez
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
