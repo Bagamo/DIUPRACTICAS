@@ -49,7 +49,7 @@ Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwi
       
 # Investagación del usuario
 
-Antes de realizar las entrevistas tuvimos una reunión en la que nos centramos en concretar cueles serian nuestros usuarios y que necesitarían de nuestra aplicación.
+Antes de realizar las entrevistas tuvimos una reunión en la que nos centramos en suponer cuales serian nuestros usuarios y que necesitarían de nuestra aplicación.
 
 
 -----
