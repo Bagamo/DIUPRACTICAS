@@ -28,11 +28,11 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwith. Una aplicación donde los usuarios podrían crear eventos para compartir su comida o crear tours para visitar restaurantes en grupos.
 
-##Duración del proyecto: 3 meses
+## Duración del proyecto: 3 meses
 
-##Miembros del equipo: Álvaro Répole Alonso y Bryan Alfonso Córdoba Góngora
+## Miembros del equipo: Álvaro Répole Alonso y Bryan Alfonso Córdoba Góngora
 
-##Objetivos:
+## Objetivos:
 
 -----
 # Proceso de Diseño 
