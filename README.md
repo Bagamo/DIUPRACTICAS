@@ -160,6 +160,7 @@ Término | Significado
 Una vez terminado el mapa decidimos crear unos bocetos de algunas de las funcionalidades, tuvimos en cuenta aquellas recomendaciones que nos hicieron las personas que entrevistamos.
 
 Entre ellas muchos comentaron querer un foro para poder compartir sus experiencias y sobretodo comentar cuales eran sus anfitriones favoritos.
+
 ![Método UX](img/boceto-foro1.jpg)
 ![Método UX](img/boceto-foro2.jpg)
 -----
