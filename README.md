@@ -61,9 +61,7 @@ La mayoria de clientes le interesan las experiencias gastronomicas pero al no en
 Decidimos constatar nuestra suposiciones visitando diferentes restaurantes y anfitriones para comprobar como actuaban los usuarios a la hora de encontrarse directamente con la experiencia. Pudimos observar que:
 
 -Un gran porcentaje de los usuarios son extrajeros.
-
 -El precio de las experiencias no suele ser muy elevado.
-
 -Los usuarios suelen buscar experiencias exóticas a no ser que sean extranjeros que se interesan mas por la gastronomía local.
 
 
@@ -75,9 +73,21 @@ Tambien hemos comparado Eatwith con Artery, en la que encontramos más diferenci
 Eatwith ofrece en definitiva una rapida y sencilla navegación, siendo accesible para todo tipo de usuarios. Su interfaz es intuitiva y sus opciones estan bien definidas no dando lugar a errores de interpretación. Tiene una buena estructura (bastante mejor que la de The Artery por ejemplo), con lo que encontrar sus funcionalidades en sencillo.
 Además, han tenido excelentes criticas por la prensa especializada, haciendo gala de ellos en el fondo del cuerpo de la página.
 
-![Método UX](img/Persona.png) 1.b Persona
------
-La primera persona es la representación del usuario medio, con intentción de comer sano y conocer gente cerca de casa, disfrutando de la gastronomía local. Está acostumbrado a las tecnologías y sabe lo que está buscando.
+## Entrevistas de usuario:
+
+Publicamos las encuestas para seleccionar a las personas para llevar a cabo las entrevistas, en ellas nos dimos cuenta que se repetian ciertas frases:
+
+"Me encanta ir a un sitio nuevo y que me sorprendan con la comida a la vez que disfruto de una gran velada."
+"Me cuesta ir a cenar con mis amigos ya que ellos no comparten mis gustos."
+"Los fines de semana me gusta dejarme llevar y que me sorprendan con una buena cena."
+
+
+
+![Método UX](img/Persona.png) Personas de usuario
+----- 
+Sentimos que necesitábamos crear 2 personas de usuario para identificar las metas y los puntos débiles de nuestro usuario objetivo.
+
+La primera persona es la representación del usuario medio, con intención de comer sano y conocer gente cerca de casa, disfrutando de la gastronomía local. Está acostumbrado a las tecnologías y sabe lo que está buscando.
 ![Método UX](img/persona1.png)
 La segunda persona es la representación de una mujer inglesa que conoce algo de uso en las tecnologias pero aun asi tampoco se desenvuelve con facilidad y le gusta viajar.Esta persona le gusta realizar sus pasión la cocina y pasar tiempo con su familia, he escogido esta persona porque queria una extrajera de edad avanzada que no se moviese tan bien con las tecnologías.
 ![Método UX](img/RBPersona.png)
