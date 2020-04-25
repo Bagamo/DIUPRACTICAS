@@ -1,7 +1,7 @@
 ## Paso 4. UX Check (Usability Testing) 
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](../img/ABtesting.png) 4.a A/B Testing
 ----
 
 
@@ -24,7 +24,7 @@
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](../img/Survey.png). 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -44,7 +44,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Paso 5. Evaluación de Accesibilidad  
 
 
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
+![Método UX](../img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
