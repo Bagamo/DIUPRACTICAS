@@ -61,7 +61,9 @@ La mayoria de clientes le interesan las experiencias gastronomicas pero al no en
 Decidimos constatar nuestra suposiciones visitando diferentes restaurantes y anfitriones para comprobar como actuaban los usuarios a la hora de encontrarse directamente con la experiencia. Pudimos observar que:
 
 -Un gran porcentaje de los usuarios son extrajeros.
+
 -El precio de las experiencias no suele ser muy elevado.
+
 -Los usuarios suelen buscar experiencias exóticas a no ser que sean extranjeros que se interesan mas por la gastronomía local.
 
 
