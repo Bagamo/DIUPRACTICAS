@@ -37,6 +37,9 @@ Esta pregunta nos sirvió de incentivo para decantarnos a la hora de crear Eatwi
       2. Permitir a los usuarios compartir experiencias, ya sea en un tour o en una comida.
       3. Fomentar la grastronomía local y crear experiencias inolvidables.
 
+
+# La oportunidad
+
 -----
 # Proceso de Diseño 
 
