@@ -130,9 +130,8 @@ La experiencia de Rachel Brown aunque inusual, puede pasar. Ella se encuentra en
 
 # Diseño
 
+Decidimos primero crear una matriz de tareas/usuarios diferenciando 3 tipos de usuarios: No registrados, registrados y anfitriones. Nos interesaba saber que acciones tendrían mas importancia para a la hora de diseñar la página darle mas valor a aquellas acciones que realicen todos los tipos de usuarios y tenga mas relevancia.
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
------
 ![Método UX](img/funciones.png)
  
 
