@@ -53,7 +53,7 @@ Antes de realizar las entrevistas tuvimos una reunión en la que nos centramos e
 
 Nuestros usuarios desean compartir sus experiencias gastronómicas con otros usuarios.
 
-Los usuarios desean realizar diferentes talleres gastronómicos.
+Los usuarios desean realizar difirentes talleres gastronómicos.
 
 Los anfitriones desean sacar algo de dinero de las experiencias.
 
@@ -65,7 +65,7 @@ Decidimos constatar nuestra suposiciones visitando diferentes restaurantes y anf
 
 -Un gran porcentaje de los usuarios son extrajeros.
 
--El precio de las experiencias no suele ser muy elevado.
+-El precio de las diferentes actividades no suele ser muy elevado.
 
 -Los usuarios suelen buscar experiencias exóticas a no ser que sean extranjeros que se interesan mas por la gastronomía local.
 
