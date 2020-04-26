@@ -53,7 +53,7 @@ Antes de realizar las entrevistas tuvimos una reunión en la que nos centramos e
 
 Nuestros usuarios desean compartir sus experiencias gastronómicas con otros usuarios.
 
-Los usuarios desean realizar difirentes talleres gastronómicos.
+Los usuarios desean realizar diferentes talleres gastronómicos.
 
 Los anfitriones desean sacar algo de dinero de las experiencias.
 
