@@ -1,4 +1,4 @@
-1.- Analiza:
+# 1.- Analiza:
 
 -Pregunta  seminal/idea  de  investigación: Una buena forma de empezar una exposición y atraer al público es hacer una pregunta que nos hemos hecho todo en algun momento, en este caso quedarnos fascinados mirando arte por la calle y preguntarnos quién es el autor de la obra. Con esto captamos la atención de nuestro publico con el tema del que queremos hablar.
 
@@ -23,7 +23,7 @@ Los creadores hicieron una investigación en la que buscaron cual era el problem
 
 Conclusión: En lineas generales nos ha parecido un UX Case Study muy bueno, en la que han llevado a cabo un estudio completo del problema, utilizando varias herramientas que le han permitido acercarse de una manera más fidedigna a las necesidades del usuario. Lo que más importante nos parecen son el análisis de competencias, porque así podemos comparar a la competencia y ver como mejorar el producto para así poder destacar, y el uso de las personas para poder contar con múltiples clientes y hacernos una idea de cómo va a ser la experiencia de usuario y así poder incidir en los puntos más lesivos.  Creemos que los métodos UX que realizan a la hora de enforcar el proyecto son bastante acertados y ayudan al desarrollo del mismo.
 
-2.- Investiga patrones de diseño y guidelines:
+# 2.- Investiga patrones de diseño y guidelines:
 
 Hemos estado estudiando varios patrones de diseño y el más atractivo que hemos encontrado es el denominado Mostly Fluid. Este patrón consiste en una cuadricula fluida, es decir, en las pantallas más grandes se mantiene el mismo tamaño con unos margenes laterales mas anchos.
 En pantallas más pequeñas la cuadricula fluida genera el reprocesamiento del contenido principal, mientras que las columnas se apilan verticalmente. Esto hace que solo se necesite un punto de interrupción entre las pantallas grandes y las pequeñas, haciendo su implementación y su diseño más sencillo.
@@ -45,3 +45,8 @@ Sería algo así, con diferentes apartado en los que ir avanzando:
 ![Método UX](../img/tracker.png)
 
 En el footer tendríamos un apartado de ayuda para los usuarios que la necesiten, que este accesible y sea intuitiva. Tendríamos además botones a las redes sociales de la web y un copyight de la empresa.
+
+
+# Conclusión
+
+Francamente lo que más nos ha costado ha sido grabar el video como tal, ya que explicar algo como si fuera una historia en tan poco tiempo ha sido bastante complicado (en todas las pruebas que hicimos salía un video de 3-4 minutos). En cuanto al estudio de MuseMap fue interesante ver como estos chicos pasaron de una idea a llevar a cabo una aplicación de exito, viendo las etapas y como fué el desarrollo como tal de la aplicación.
