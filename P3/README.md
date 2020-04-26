@@ -47,6 +47,10 @@ Sería algo así, con diferentes apartado en los que ir avanzando:
 En el footer tendríamos un apartado de ayuda para los usuarios que la necesiten, que este accesible y sea intuitiva. Tendríamos además botones a las redes sociales de la web y un copyight de la empresa.
 
 
+# Video de la historia
+
+Este es el enlace: https://youtu.be/k8pgWPt0wF8
+
 # Conclusión
 
 Francamente lo que más nos ha costado ha sido grabar el video como tal, ya que explicar algo como si fuera una historia en tan poco tiempo ha sido bastante complicado (en todas las pruebas que hicimos salía un video de 3-4 minutos). En cuanto al estudio de MuseMap fue interesante ver como estos chicos pasaron de una idea a llevar a cabo una aplicación de exito, viendo las etapas y como fué el desarrollo como tal de la aplicación.
