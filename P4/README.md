@@ -24,9 +24,9 @@ Puntos fuertes:
  - Site-map bien elaborado y que ofrece una página bien estructurada.
 
 Puntos Debiles:
- -El checklist no tiene cometarios de las notas.
- -Carece de logotipo
- -El readme está incompleto, falta todo el contenido de la prática 3.
+ - El checklist no tiene cometarios de las notas.
+ - Carece de logotipo
+ - El readme está incompleto, falta todo el contenido de la prática 3.
  
 Puntuación Final: 74
  
@@ -34,9 +34,9 @@ Puntuación Final: 74
 * Por último hemos analizado a [DIU1.LEJIA](https://github.com/luiser1996/DIU20), que hicieron una valoración sobre una aplicación sobre compartir viajes. Este grupo nos pareció el que hizo un mejor trabajo.
 
 Puntos fuertes:
- -Personas muy interesantes que ayudan a la hora de ver los posibles fallos de la aplicación.
- -Bocetos muy detallados que enseñan de manera muy intuitiva la página resultante.
- -Propuesta bien definida y clara.
+ - Personas muy interesantes que ayudan a la hora de ver los posibles fallos de la aplicación.
+ - Bocetos muy detallados que enseñan de manera muy intuitiva la página resultante.
+ - Propuesta bien definida y clara.
  
 Puntos Debiles:
  - Faltan muchos comentarios en la checklist.
