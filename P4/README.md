@@ -11,7 +11,7 @@ Puntos fuertes:
 Puntos Debiles:
  - Personas que no ayudan a identificar los posibles problemas de la aplicación.
  - Propuesta poco trabajada y que no ofrece una descripción detallada.
- - Video excecivamente largo(casi 6 minutos).
+ - Video excesivamente largo(casi 6 minutos).
 
 Puntuación Final: 79
 
