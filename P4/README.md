@@ -5,10 +5,10 @@
 
 
 ## Caso 2
-Descripcion y hoja de valoración.
+* DIU2.MACC	[Web](https://github.com/MigueCc99/DIU20)
 
 ## Caso 3
-Descripcion y hoja de valoración.
+* DIU1.LEJIA	[Web](https://github.com/luiser1996/DIU20)
 
 ## User Testing
 Describe la experiencia 1
