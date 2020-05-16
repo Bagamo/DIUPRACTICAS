@@ -1,14 +1,25 @@
 ## DIU - Practica 4
 
 ## Caso 1
-* DIU1.NJA	[Web](https://github.com/EspGameplayer/DIU20)
+* Hemos analizado a	[DIU1.NJA](https://github.com/EspGameplayer/DIU20), que hacieron una valoración de una aplicación orientada a guías turísticos. 
 
+-Puntos fuertes:
+
+-Puntos Debiles:
 
 ## Caso 2
-* DIU2.MACC	[Web](https://github.com/MigueCc99/DIU20)
+* En este caso analizamos a [DIU2.MACC](https://github.com/MigueCc99/DIU20), que hizo una valoración de una aplicación sobre compatir alojamiento.
 
+-Puntos fuertes:
+
+-Puntos Debiles:
 ## Caso 3
-* DIU1.LEJIA	[Web](https://github.com/luiser1996/DIU20)
+* Por último hemos analizado a [DIU1.LEJIA](https://github.com/luiser1996/DIU20), que hicieron una valoración sobre una aplicación sobre compartir viajes. Este grupo nos pareció el que hizo un mejor trabajo.
+
+-Puntos fuertes:
+
+-Puntos Debiles:
+
 
 ## User Testing
 Describe la experiencia 1
