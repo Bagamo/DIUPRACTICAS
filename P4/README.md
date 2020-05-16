@@ -3,25 +3,25 @@
 ## Caso 1
  Hemos analizado a	[DIU1.NJA](https://github.com/EspGameplayer/DIU20), que hacieron una valoración de una aplicación orientada a guías turísticos. 
 
-*Puntos fuertes:*
- -
- -Site-map bien estructurado
- -
+Puntos fuertes:
+ - Site-map bien estructurado y con contenido muy bien detallado.
+ - Muy buenos bocetos que ayudan a imaginar cómo sería la aplicación.
+ - Labeling con iconografía y con muchos terminos.
 
-*Puntos Debiles:*
- -Personas que no ayudan a identificar los posibles problemas de la aplicación.
- -
- -
+Puntos Debiles:
+ - Personas que no ayudan a identificar los posibles problemas de la aplicación.
+ - Propuesta poco trabajada y que no ofrece una descripción detallada.
+ - Video excecivamente largo(casi 6 minutos).
 
 ## Caso 2
 En este caso analizamos a [DIU2.MACC](https://github.com/MigueCc99/DIU20), que hizo una valoración de una aplicación sobre compatir alojamiento.
 
-*Puntos fuertes:
+Puntos fuertes:
  -
  -
  -
 
-*Puntos Debiles:
+Puntos Debiles:
  -
  -
  -
