@@ -49,9 +49,9 @@ Puntos Debiles:
 ## User Testing: 
  1. Rachel va a realizar un viaje y desea un guía, encuentra lookaround para contratar un guía. Al entrar no encuentra una un buscador pero encuentra la opción de buscar guía, entre los multiples guías elige uno con buenas reseñas y lo contrata. Una vez llega a su destino se encuentra con el guía que contrato pero no se fijo que el guía ofrecia un tour grastronómico. Le gusto pero no era lo que esperaba.
 
- 2. Describe la experiencia 2
-
- 3. Describe la experiencia 3
+ 2. Ramón desea viajar a madrid por una temporada pero los alojamientos son muy caros. Usa una aplicación para encontrar alojamiento, al final encuentra un alojamiento no muy caro pero esta lejos del centro y no es lo que buscaba.
+ 
+ 3. Rachel
 
 ## Conclusiones
 
