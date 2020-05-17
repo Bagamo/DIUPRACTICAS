@@ -68,7 +68,7 @@ Hemos estudiado tres proyectos de nuestros compañeros, entre ellos ha destacado
   3. DIU2.MACC  ( 74 puntos )
   
   
-Hemos podido apreciar la importancia  de realizar unos bocetos descriptivos y claros que ayuden al desarrollo. Además de la creación de un sitemap que incluya todos los posible movimientos que se pueden realizar en la página y la importancia de crear personas coherentes con el público con el público al que esta orientada la aplicación para someterlas a distintas experiencias (journey map) permitiendo encontrar fallos en la funcionalidad de la página.
+Hemos podido apreciar la importancia  de realizar unos bocetos descriptivos y claros que ayuden al desarrollo. Además de la creación de un sitemap que incluya todos los posible movimientos que se pueden realizar en la página y la importancia de crear personas coherentes con el público con el público al que esta orientada la aplicación para someterlas a distintas experiencias (journey map) permitiendo encontrar fallos en la funcionalidad de la página. Ha sido interesante observar como otros grupos afrontaban la práctica y ver que ideas le surgían a la hora de realizarla.
 
 
 
