@@ -47,11 +47,28 @@ Puntos Debiles:
 
 
 ## User Testing: 
+
  1. Rachel va a realizar un viaje y desea un guía, encuentra lookaround para contratar un guía. Al entrar no encuentra una un buscador pero encuentra la opción de buscar guía, entre los multiples guías elige uno con buenas reseñas y lo contrata. Una vez llega a su destino se encuentra con el guía que contrato pero no se fijo que el guía ofrecia un tour grastronómico. Le gusto pero no era lo que esperaba.
 
  2. Ramón desea viajar a madrid por una temporada pero los alojamientos son muy caros. Usa una aplicación para encontrar alojamiento, al final encuentra un alojamiento no muy caro pero esta lejos del centro y se conforma aunque no era lo que tenia en mente.
  
  3. Rachel esta pensando realizar un viaje pero le da miedo ir sola y su familia no puede venir. Encuentra una aplicación para unirse a grupos de viajes CraneTrip, encuentra un grupo que se dirije a su destino. Los compañeros parecen muy simpaticos, realiza el viaje y se lo pasa bien pero nota que le falta algo. Le hubiese gustado realizarlo con su familia aun asi le experiencia es positiva.
 
+
 ## Conclusiones
+
+Hemos estudiado tres proyectos de nuestros compañeros, entre ellos ha destacado el proyecto de DIU1.Lejia.
+
+# Ranking
+
+  1. DIU1.Lejia ( 89 puntos )
+ 
+  2. DIU1.NJA   ( 79 puntos )
+ 
+  3. DIU2.MACC  ( 74 puntos )
+  
+  
+Hemos podido apreciar la importancia  de realizar unos bocetos descriptivos y claros que ayuden al desarrollo. Además de la creación de un sitemap que incluya todos los posible movimientos que se pueden realizar en la página y la importancia de crear personas coherentes con el público con el público al que esta orientada la aplicación para someterlas a distintas experiencias (journey map) permitiendo encontrar fallos en la funcionalidad de la página.
+
+
 
