@@ -47,11 +47,11 @@ Puntos Debiles:
 
 
 ## User Testing
-Describe la experiencia 1
+ 1. Describe la experiencia 1
 
-Describe la experiencia 2
+ 2. Describe la experiencia 2
 
-Describe la experiencia 3
+ 3. Describe la experiencia 3
 
 ## Conclusiones
 
