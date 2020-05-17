@@ -57,7 +57,8 @@ Puntos Debiles:
 
 # Conclusiones
 
-Hemos estudiado tres proyectos de nuestros compañeros, entre ellos ha destacado el proyecto de DIU1.Lejia.
+Hemos podido apreciar la importancia  de realizar unos bocetos descriptivos y claros que ayuden al desarrollo. Además de la creación de un sitemap que incluya todos los posible movimientos que se pueden realizar en la página y la importancia de crear personas coherentes con el público con el público al que esta orientada la aplicación para someterlas a distintas experiencias (journey map) permitiendo encontrar fallos en la funcionalidad de la página. Ha sido interesante observar como otros grupos afrontaban la práctica y ver que ideas le surgían a la hora de realizarla. También nos dimos cuenta que es muy necesario tener una explicación clara y sencilla que permita que otras personas puedan entender el proyecto ya que si falta algo o no esta bien explicado podría crear problemas en el desarrollo del mismo dado que las diferentes partes tendrían que pedir explicaciones a las diferentes partes o podría generar un fallo si se mal entiende los bocetos o alguno de los métodos utilizados.
+
 
 ## Ranking
 
@@ -68,7 +69,7 @@ Hemos estudiado tres proyectos de nuestros compañeros, entre ellos ha destacado
   3. DIU2.MACC  ( 74 puntos )
   
   
-Hemos podido apreciar la importancia  de realizar unos bocetos descriptivos y claros que ayuden al desarrollo. Además de la creación de un sitemap que incluya todos los posible movimientos que se pueden realizar en la página y la importancia de crear personas coherentes con el público con el público al que esta orientada la aplicación para someterlas a distintas experiencias (journey map) permitiendo encontrar fallos en la funcionalidad de la página. Ha sido interesante observar como otros grupos afrontaban la práctica y ver que ideas le surgían a la hora de realizarla. También nos dimos cuenta que es muy necesario tener una explicación clara y sencilla que permita que otras personas puedan entender el proyecto ya que si falta algo o no esta bien explicado podría crear problemas en el desarrollo del mismo dado que las diferentes partes tendrían que pedir explicaciones a las diferentes partes o podría generar un fallo si se mal entiende los bocetos o alguno de los métodos utilizados.
+
 
 
 
