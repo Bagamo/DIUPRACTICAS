@@ -55,11 +55,11 @@ Puntos Debiles:
  3. Rachel esta pensando realizar un viaje pero le da miedo ir sola y su familia no puede venir. Encuentra una aplicación para unirse a grupos de viajes CraneTrip, encuentra un grupo que se dirije a su destino. Los compañeros parecen muy simpaticos, realiza el viaje y se lo pasa bien pero nota que le falta algo. Le hubiese gustado realizarlo con su familia aun asi le experiencia es positiva.
 
 
-## Conclusiones
+# Conclusiones
 
 Hemos estudiado tres proyectos de nuestros compañeros, entre ellos ha destacado el proyecto de DIU1.Lejia.
 
-# Ranking
+## Ranking
 
   1. DIU1.Lejia ( 89 puntos )
  
